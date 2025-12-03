@@ -1,8 +1,8 @@
 streamlit
 openai
 openai-whisper
-pyttsx3  # optional for offline TTS fallback
+pyttsx3
 textdistance
-kagglehub  # as requested by user
-pydub  # if you process audio
+kagglehub
+pydub
 numpy
