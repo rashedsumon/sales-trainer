@@ -1,6 +1,6 @@
 streamlit
 openai
-whisper @ git+https://github.com/openai/whisper.git  # optional: for local STT
+openai-whisper
 pyttsx3  # optional for offline TTS fallback
 textdistance
 kagglehub  # as requested by user
